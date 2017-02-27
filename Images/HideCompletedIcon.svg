@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect x="32" y="32" width="135.028" height="192" rx="14.982" ry="14.982" style="fill: rgb(0, 121, 191);"/>
+  <path d="M 70.611 32 L 211.018 32 C 218.187 32 224 38.708 224 46.982 L 224 209.018 C 224 217.292 218.187 224 211.018 224 L 70.611 224 C 70.04 191.534 71.082 58.053 70.611 32 Z" style="fill: rgb(226, 228, 230);"/>
+  <g>
+    <rect x="88" y="8.588" width="42.312" height="42.312" style="fill: none; stroke: rgb(144, 144, 144);" rx="5.39" ry="5.39"/>
+    <path d="M 98.022 28.955 L 106.045 38.983 L 122.591 20.933" style="fill: none; stroke-linecap: round; stroke-width: 2; stroke-linejoin: round; stroke: rgb(144, 144, 144);"/>
+    <rect x="88" y="68.588" width="42.312" height="42.312" style="fill: none; stroke: rgb(144, 144, 144);" rx="5.39" ry="5.39"/>
+    <path d="M 98.022 88.955 L 106.045 98.983 L 122.591 80.933" style="fill: none; stroke-linecap: round; stroke-width: 2; stroke-linejoin: round; stroke: rgb(144, 144, 144);"/>
+    <rect x="88" y="128.588" width="42.312" height="42.312" style="stroke: rgb(185, 185, 185); fill: rgb(255, 255, 255);" rx="5.39" ry="5.39"/>
+    <rect x="88" y="188.588" width="42.312" height="42.312" style="stroke: rgb(185, 185, 185); fill: rgb(255, 255, 255);" rx="5.39" ry="5.39"/>
+    <text x="143.144" y="94.171" style="fill: rgb(144, 144, 144); font-family: &quot;Redacted Script&quot;; font-size: 45px; white-space: pre;">ksjdhjkdhf </text>
+    <text x="140.449" y="36.378" style="fill: rgb(144, 144, 144); font-family: &quot;Redacted Script&quot;; font-size: 45px; white-space: pre;">yegh</text>
+    <text x="140.796" y="155.101" style="fill: rgb(77, 77, 77); font-family: &quot;Redacted Script&quot;; font-size: 45px; white-space: pre;">weiofe jh </text>
+    <text x="141.401" y="215.391" style="fill: rgb(77, 77, 77); font-family: &quot;Redacted Script&quot;; font-size: 45px; white-space: pre;">ffoiu</text>
+    <path d="M 138.78 30.234 L 259.248 29.964" style="fill: none; stroke-linecap: round; stroke-width: 2; stroke: rgb(144, 144, 144);"/>
+    <path d="M 138.475 88.289 L 289.666 87.95" style="fill: none; stroke-linecap: round; stroke-width: 2; stroke: rgb(144, 144, 144);"/>
+  </g>
+</svg>
