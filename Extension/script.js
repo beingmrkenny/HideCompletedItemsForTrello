@@ -30,12 +30,12 @@ function keepCounting(passedCount, interval, limit) {
 
 	if (
 		limit > 0 &&
-		(typeof passedCount == 'undefined' || currentCount !== passedCount)
+		(typeof passedCount == 'undefined' || currentCount !== passedCount || currentCount == 0)
 	) {
 
 		// if current and previous are different, assume the card hasn't been finished yet and pause before counting again
 		window.setTimeout(function () {
-			keepCounting(currentCount, limit, interval);
+			keepCounting(currentCount, interval, limit);
 		}, interval);
 
 	} else {
