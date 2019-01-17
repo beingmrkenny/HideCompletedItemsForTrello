@@ -1,7 +1,7 @@
 'use strict';
 
 document.addEventListener('DOMContentLoaded', function () {
-	watchForViewCard();
+	setTimeout(watchForViewCard, 0);
 	if (window.location.pathname.startsWith('/c/')) {
 		keepCounting();
 	}

@@ -3,7 +3,7 @@
 
     "name": "Hide Completed Items for Trello",
     "description": "Hides completed checklist items on Trello cards",
-    "version": "1.3",
+    "version": "1.3.1",
 
     "author": "Mark Kenny",
     "homepage_url": "http://beingmrkenny.co.uk/web-extensions/hide-completed-items-trello",
